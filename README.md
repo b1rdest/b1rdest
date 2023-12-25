@@ -1,6 +1,5 @@
 # 👋 Hello
 I am a 22 years old student of Computer Engineering and Mathematics at [Universidad de Chile](https://uchile.cl/), [FCFM](https://ingenieria.uchile.cl/), [Departamento de Ciencias de la Computación](https://dcc.uchile.cl/).
-- 😄 Pronouns: any, who cares
 <br/> 
 
 # 💡 Interests!
