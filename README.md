@@ -3,13 +3,12 @@ I am a 22 years old student of Computer Engineering and Mathematics at [Universi
 <br/> 
 
 # 💡 Interests!
+- 🛢️ Back-end Developing
 - 🎮 Videogame Developing
 - 👨‍💻 System Programming
 - 📊 Data Science
-- 🧠 Artificial Intelligence
 - 🎓 Education
 - 🔢 Mathematics
-- 🎵 Musical Production and Composing
 <br/> 
 
 # 🔤 Programming Languages
