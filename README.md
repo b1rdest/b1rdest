@@ -1,5 +1,5 @@
 # 👋 Hello
-I am a 23 years old student of Electrical Engineering and Computer Science at [Universidad de Chile](https://uchile.cl/), [FCFM](https://ingenieria.uchile.cl/), [Departamento de Ciencias de la Computación](https://dcc.uchile.cl/).
+I am a Computer Science student at [Universidad de Chile](https://uchile.cl/), [FCFM](https://ingenieria.uchile.cl/), [Departamento de Ciencias de la Computación](https://dcc.uchile.cl/).
 <br/> 
 
 # 💡 Interests!
